@@ -1,4 +1,3 @@
-#from arstCliLib import *
 import sys
 #from netaddr import IPAddress
 
